@@ -1,0 +1,1 @@
+import{q as e}from"./index-BzZW7_bo.js";const p={fetch:({category:t,limit:r,offset:s,ordering:i,search:o})=>e.apiProductsList({category:t,limit:r,offset:s,ordering:i,search:o}),fetchById:t=>e.apiProductsRetrieve({id:t}),fetchCategory:()=>e.apiProductsCategoryList()};export{p as s};
