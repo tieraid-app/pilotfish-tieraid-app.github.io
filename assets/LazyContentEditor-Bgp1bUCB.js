@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/contentEditor-yY-g-zCj.js","assets/index-D0ilJzwM.js","assets/index-BfwngRe3.css","assets/contentEditor-Dvxv9K2m.css"])))=>i.map(i=>d[i]);
+import{j as t,y as e,aN as r,E as o}from"./index-D0ilJzwM.js";const a=e.lazy(()=>r(()=>import("./contentEditor-yY-g-zCj.js"),__vite__mapDeps([0,1,2,3]))),n=()=>t.jsx("div",{className:"flex h-48 w-full items-center justify-center rounded-md border",children:t.jsx(o,{})}),d=s=>t.jsx(e.Suspense,{fallback:t.jsx(n,{}),children:t.jsx(a,{...s})});export{d as L};
